@@ -60,7 +60,7 @@
 ## Как запустить проект
 1. Клонировать репозиторий:
 ```bash
-git clone <https://github.com/RamChous/eda-it-vacancies-kz-2023>
+git clone https://github.com/RamChous/eda-it-vacancies-kz-2023
 ```
 2. Запустить Jupyter Notebook:
 ```bash
